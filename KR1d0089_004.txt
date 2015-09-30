@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 家禮
-#+DATE: 2015-09-23 09:39:10
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:12:12.933977
+#+PROPERTY: ID KR1d0089
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR1d0089_WYG_004-1a>¶
 欽定四庫全書¶
 　家禮卷四¶
@@ -866,4 +868,3 @@
 　¶
 　¶
 　家禮卷四¶
-
